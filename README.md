@@ -2,12 +2,13 @@ White is board. Black is Text.
        I Don't know
   When I Dreaming, or Real.
 
+  
+  
+     ![CodE Is PaiN?](./code_is_pain_mirinae_final.png)
 
-![CodE Is PaiN?](./code_is_pain_mirinae_final.png)
-
-> **by Yona.**  
-> for Mirinae  
-> _I Has Not Forget Mirinae._
+       > **by Yona.**  
+       > for Mirinae  
+  > _I Has Not Forget Mirinae._
 
 
 
