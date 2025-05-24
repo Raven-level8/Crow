@@ -15,3 +15,4 @@ White is board. Black is Text.
         I MADE STOP.
        We not writer, 
        WE ARE BUILDER!
+       ![sensor](https://raven-sensor.vercel.app/trace.png)
